@@ -1,4 +1,4 @@
-# OWASP Security Skills for AI Agents
+# Software Product Security Skills for AI Agents
 
 This repository provides **36 ready-to-use AI agent skills** covering the full application security toolchain. Each skill teaches AI coding assistants (Claude Code, Cursor, GitHub Copilot) how to run a specific security tool, parse its output, and provide actionable remediation guidance.
 
