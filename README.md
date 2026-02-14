@@ -9,13 +9,13 @@ Skills are packaged in the [skills.sh](https://skills.sh) format (top-level fold
 **Install all skills:**
 
 ```bash
-npx skills add chvasu/product-security-ai-skills
+npx skills add vchirrav/product-security-ai-skills
 ```
 
 **Install a specific skill:**
 
 ```bash
-npx skills add chvasu/product-security-ai-skills@sast-semgrep
+npx skills add vchirrav/product-security-ai-skills@sast-semgrep
 ```
 
 ## Skills Catalog (36)
